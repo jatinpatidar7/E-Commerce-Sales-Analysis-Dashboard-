@@ -1,4 +1,4 @@
-# E-Commerce-Sales-Analysis-Dashboard-
+# E-Commerce-Sales-Analysis-Dashboard- PowerBI
 This project features an interactive Power BI dashboard designed to analyze and visualize e-commerce sales data.
 The primary goal is to provide actionable insights into business performance, helping stakeholders track key metrics, identify trends, and make data-driven decisions to optimize revenue.
 
